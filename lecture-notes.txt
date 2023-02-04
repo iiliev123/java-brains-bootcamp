@@ -1,1 +1,14 @@
+Lecture 1-2
 
+CDN
+REST
+Restful
+HTTPS and HTTP(3 handshake)
+SSH
+SSL
+TSL
+DNS
+JWT vs Cookies
+
+
+-----------------------------------------------------------------------------------
